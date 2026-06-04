@@ -10,10 +10,8 @@ This project is an Excel-based Inventory Management System developed using Micro
 * Sales Entry Management
 * Automatic Stock Calculation
 * VBA Macro Automation
-* Auto Bill Number Generation
-* Data Validation for User Inputs
 * Stock Availability Validation
-* Out of Stock Alert System
+* Out of Stock Alert 
 * Navigation Buttons using Hyperlinks
 * Inventory Tracking Dashboard
 
@@ -70,6 +68,8 @@ Used for recording inventory sales.
 Shows available stock for all items.
 
 ### Out of Stock Alert
+
+![Out of Stock Alert](Out-of-Stock-Alert.png)
 
 The system automatically validates inventory before processing a sale and displays an alert when stock is insufficient.
 
