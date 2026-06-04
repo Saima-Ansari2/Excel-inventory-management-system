@@ -69,7 +69,7 @@ Shows available stock for all items.
 
 ### Out of Stock Alert
 
-![Out of Stock Alert](Out-of-Stock-Alert.png)
+![Out of Stock Alert](Stock_Alert.png)
 
 The system automatically validates inventory before processing a sale and displays an alert when stock is insufficient.
 
